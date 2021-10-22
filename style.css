@@ -1,0 +1,143 @@
+
+
+/*start nav css*/
+body{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+ul {
+    list-style-type: none;
+   
+    margin-top: 0px;
+    height: 69px;
+
+
+    background-color: #333;
+  }
+  
+  li {
+    float: right;
+
+    
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+.aboutus{
+    margin-left: -130px;
+
+}
+
+
+/* separation css*/
+
+.about{
+    border: thick double  black;
+    padding: 2%;
+}
+.imagdiv{
+    width: 40%;
+    border-radius: 98px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.textdiv{
+    margin-left: 933px;
+    margin-bottom: 184px;
+    margin-top: -380px;
+}
+
+.textdiv h1{
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
+.textdiv p{
+    font-size: 20px;
+}
+
+
+/*project*/
+.project{
+    margin-left: 193px;
+    margin-right: -47px;
+}
+.divproject1{
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+    border: solid 1px;
+}
+
+.divproject2{
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+    border: solid 1px;
+    margin-left: 500px;
+    margin-top: -300px;
+}
+.divproject3{
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+    border: solid 1px;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+
+#projecth1{
+    text-align: center;
+    color: coral;
+    font-size: 80px;
+}
+
+
+.contact h2{
+    text-align: center;
+    font-size: 49px;
+    color: rgb(13, 132, 230);
+}
+
+
+.contact img {
+    margin-left: 500px;
+    margin-top: 15px;
+}
+
+form {
+    margin-left:623px;
+}
+label{
+    color: aqua;
+    font-size: 48px;
+}
+input{
+    height: 34px;
+    width: 440px;
+
+}
+
+
+
+/*footer css*/
+
+footer {
+    padding: 10px 20px;
+    background: rgb(168, 168, 168);
+    color: white;
+    margin-top: 40px;
+  }
